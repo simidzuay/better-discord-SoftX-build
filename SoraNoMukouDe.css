@@ -1,0 +1,27 @@
+/**
+ * @name Sora no Mukou de
+ * @author Неважно..
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/53086-sora-no-mukou-de.html
+ * @authorLink https://vsthemes.org/user/%D0%9D%D0%B5%D0%B2%D0%B0%D0%B6%D0%BD%D0%BE../
+ * @authorId 136973
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 48,3,41;
+    --transparencyalpha: 0.2;
+    --messagetransparency: 0.5;
+    --guildchanneltransparency: 0.2;
+    --memberlistransparency: 0;
+    --accentcolor: 235,12,219;
+    --background: url("https://vsthemes.org/uploads/posts/2022-09/1662014178_anime-art-kanno-kou-haruki-5008.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
